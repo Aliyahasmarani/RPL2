@@ -76,6 +76,11 @@
 
 ![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/aaaa60b0-22b8-4596-bb82-c8f25883d6fd)
 
+## CLASS DIAGRAM KANG BAKSO
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/75d01cec-f0e7-4d9d-a83c-88d483573927)
+
+
 
 
 
