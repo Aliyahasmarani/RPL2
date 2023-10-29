@@ -56,6 +56,15 @@
 
 ![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/106ec9a4-2372-4cdc-95a0-2aaeb108edc3)
 
+## SQUENCE PELANGGAN
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/f0e8186e-69f5-46fa-b700-157d1606e7bb)
+
+## SQUENCE KASIR
+
+
+
+
 
 
 
