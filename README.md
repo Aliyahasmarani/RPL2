@@ -34,6 +34,32 @@
 
 ![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/a63ed38e-7214-4c00-91f1-6f1715b4a370)
 
+## ACTIVITY ADMIN
+
+### Admin Mengakses LogIn
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/9eea07dc-abd9-4ffa-b833-79d48f5775f5)
+
+### Admin Mengakses Halaman Utama
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/b9461b4e-846d-48ad-8304-b94b3735592b)
+
+### Admin Mengakses Menu Stok
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/48310219-dab9-4194-88d9-1e75218282cf)
+
+### Admin Mengakses Menu Laporan
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/7c070e5e-6d22-4597-8651-d9aab4c9a12e)
+
+### LogOut
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/106ec9a4-2372-4cdc-95a0-2aaeb108edc3)
+
+
+
+
+
 
 
 
