@@ -2,4 +2,46 @@
 
 ## USE CASE KANG BAKSO
 
-![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/7b8c8676-76a1-42e0-9277-1f456701bd8b)
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/3be1a826-188e-40c9-a10a-6111ce3b4c77)
+
+## ACTIVITY PELANGGAN
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/f93a4865-f5fd-4cbc-b25d-e811806bc430)
+
+## ACTIVITY KASIR
+
+### Kasir Mengakses LogIn
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/bcd4723b-a744-4d7c-845e-fc24e3805ed2)
+
+### Kasir Mengakses Halaman Utama
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/e33523dd-05d1-426f-a745-e5635421bb5f)
+
+### Kasir Mengakses Menu Transaksi
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/e2edc0f2-ee28-432d-863b-f17dd0559023)
+
+### Kasir Mengakses Menu Laporan
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/c365a158-ee24-4d90-815c-a9645f5f1d9f)
+
+### Kasir Mengakses Menu Cek Stok
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/11432f2e-cb81-4f24-9066-0a5ef78a9990)
+
+### Kasir Mengakses LogOut
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/a63ed38e-7214-4c00-91f1-6f1715b4a370)
+
+
+
+
+
+
+
+
+
+
+
+
