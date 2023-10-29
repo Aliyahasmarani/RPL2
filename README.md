@@ -60,7 +60,22 @@
 
 ![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/0feee6c9-f28c-4519-a792-64267e3aa679)
 
-## SQUENCE KASIR
+## SQUENCE LOGIN KASIR/ADMIN
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/d2785e2c-4a59-414a-8a27-fd6b7c27ae9e)
+
+## SQUENCE ADMIN MENGELOLA MENU STOK
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/cdeba2ad-6a6f-4488-969a-d84606f418e4)
+
+## SQUENCE ADMIN MENGELOLA MENU LAPORAN
+
+![image](https://github.com/Aliyahasmarani/RPL2/assets/115197672/52f4ab89-d597-4725-a4a7-ec30d2eca798)
+
+
+
+
+
 
 
 
